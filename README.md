@@ -2,4 +2,4 @@
 - 👀 I’m interested in DeepLearn and web development;
 - 🌱 I’m currently learning Artificial Intelligence;
 - 💞️ I’m looking to collaborate on whatever;
-- 📫 How to reach me hashizume@mail.nwpu.edu.cn
+- 📫 How to reach me : hashizume@mail.nwpu.edu.cn
