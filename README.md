@@ -13,10 +13,9 @@ I’m currently learning Artificial Intelligence;
 I’m interested in DeepLearning and web development;
 
 I'm familier with
-- https://img.shields.io/badge/Lang-C-blue
+<img src=https://img.shields.io/badge/-C-blueviolet.svg>
+<img src=https://img.shields.io/badge/-Python-blue.svg>
+<img src=https://img.shields.io/badge/JAVA-%20%20Web%20-orange>
 
-- 👋 Hi, I’m @EnkaCN;
-- 👀 
-- 🌱 
-- 💞️ I’m looking to collaborate on whatever;
-- 📫 How to reach me : hashizume@mail.nwpu.edu.cn
+## Contact me by
+- Email： hashizume@mail.nwpu.edu.cn
