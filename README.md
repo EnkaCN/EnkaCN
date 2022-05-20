@@ -1,5 +1,7 @@
 # Welcome to my repository
 
+> comprehensive and free development of everyone
+
 I’m @EnkaCN
 
 - 💖中文/English OK
